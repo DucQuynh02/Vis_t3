@@ -1,9 +1,9 @@
 Win rate:
-	  *Splendor_v2: 80%
-	  *TLMN: 57%
-	  *Splendor: 69%
-	  *StoneAge: 55%
-	  *Catan_v2: 59%
-	  *SushiGo: 50%
-	  *Century: 50%
-	  *Tấn: 50%
+`*`Splendor_v2: 80%
+`*`TLMN: 57%
+`*`Splendor: 69%
+`*`StoneAge: 55%
+`*`Catan_v2: 59%
+`*`SushiGo: 50%
+`*`Century: 50%
+`*`Tấn: 50%
