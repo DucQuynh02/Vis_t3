@@ -7,4 +7,4 @@
 6. SushiGo: 50%
 7. Century: 50%
 8. Tấn: 50%
-9. MachiKoro ~41 42%
+9. MachiKoro 46%
